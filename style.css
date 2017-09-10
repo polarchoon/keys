@@ -1,0 +1,38 @@
+body{
+	background-color: #EFEFEF;
+	font-family: courier;
+}
+
+header{
+	text-align: center;
+}
+
+nav ul li{
+	display: inline-block;
+}
+
+nav ul li a{
+	text-align: center;
+	text-decoration: none;
+	margin:0 20px;
+	color: darkgrey;
+}
+
+#container{
+	width: 80%;
+	margin: 0px auto;
+	background-color: white;
+	text-align: center;
+	padding: 10px;
+	border: double 3px black;
+}
+
+
+nav ul li a:hover{
+	color: lightblue;
+}
+
+#desc{
+	text-align: center;
+}
+
